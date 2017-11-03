@@ -1,7 +1,7 @@
 // Test project.cpp : Defines the entry point for the console application.
 //
 
-//#include "stdafx.h"    if using visual cpp
+//#include "stdafx.h" //if using visual cpp
 #include <stdio.h>
 #include <cstdlib>
 #include <Windows.h> // use < > for all system and library headers
