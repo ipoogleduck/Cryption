@@ -10,4 +10,4 @@ If you want code compatible with any Cpp compiler on windows open "pureCodeWithC
 If you want code compatible with any Cpp compiler on any operating system open "pureCodeNoCP.cpp".
 # Using Code
 If you are using more then 15 lines of this code please get permission.
-To acquire a permission please visit ipooglecodes.weebly.com
+To acquire a permission please visit ipooglecodes.weebly.com (link on github)
