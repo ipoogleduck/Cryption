@@ -1,6 +1,10 @@
 # Cryption 2.3
-This service encrypts and decrypts any text you type or paste in. 
-Make sure whoever you are communicating with also will have access to the latest version of cryption. 
+Cryption encrypts and decrypts text you type in, allowing you to secretly communicate with someone
+
+# Features
+- Randomly generated cryption key for best security
+- Auto copy to clipboard for faster communication
+- Accessible from Veebo by typing "Cryption" (coming soon)
 <div align="center">
   
 <img src="https://ipooglecodes.weebly.com/uploads/9/7/6/2/97620300/logomakr_6x91uk.png"><br><br>
